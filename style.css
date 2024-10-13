@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    background-image: url('fly.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+}
+.top_section {
+    background-color: blue;
+    width: 500px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to right, indigo, navy , blue, indigo );
+}
